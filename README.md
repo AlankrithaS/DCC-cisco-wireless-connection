@@ -1,5 +1,7 @@
 ![image](https://github.com/AlankrithaS/Data-communication-network/assets/109807524/c24488e4-574a-4199-ac65-10be2d185979)
 small-scale setup 
+
+
 Requirements Considered:
 
 - The ABC Company comprises three distinct departments: Administration, Quality, and Development.
